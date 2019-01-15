@@ -1,3 +1,4 @@
+import 'package:cevo_theapp/team.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
@@ -34,7 +35,7 @@ class MyApp extends StatelessWidget {
       ),
       home: MyHomePage(title: 'Flutter Demo Home Page'),
       routes: <String, WidgetBuilder>{
-        '/a': (BuildContext context) => MyPage(title: 'page A'),
+        '/a': (BuildContext context) => TeamRoute(),
         '/b': (BuildContext context) => MyPage(title: 'page B'),
         '/c': (BuildContext context) => MyPage(title: 'page C'),
       },

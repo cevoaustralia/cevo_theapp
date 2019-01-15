@@ -20,6 +20,7 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.2
   font_awesome_flutter: 8.2.0
+  intl:
 
 dev_dependencies:
   flutter_test:
@@ -40,8 +41,10 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
     - assets/Cevo-PNG-orange.png
-  #  - images/a_dot_burr.jpeg
-  #  - images/a_dot_ham.jpeg
+    - assets/owen_chung.jpg
+    - assets/paul_borg.jpg
+    - assets/steve_mactaggart.jpg
+    - assets/trent_hornibrook.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.io/assets-and-images/#resolution-aware.
