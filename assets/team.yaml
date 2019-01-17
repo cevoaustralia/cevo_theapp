@@ -1,7 +1,6 @@
 people:
   - name: Hannah Browne
     sort: 2015-05-19
-    joined: 20150519
     position: General Manager
     desc:
       Hannah Browne is a passionate, opinionated deal maker, and the General Manager of Cevo.
@@ -17,7 +16,6 @@ people:
 
   - name: Steve Mactaggart
     sort: 2016-07-07
-    joined: 20160707
     position: Application Delivery Evangineer
     desc:
       Steve loves helping businesses deliver the best solution for their customers in a way that fits both their timelines and their customer needs.
@@ -165,7 +163,7 @@ people:
         url: https://www.linkedin.com/in/sianehughes
 
   - name: Trystan Sykes
-    sort: 2017-12-8
+    sort: 2017-12-08
     position: DevOps Consultant
     desc: Trystan has an extensive background in creating workable operational cultures, customer service and stakeholder engagement. He has only recently begun his journey as a developer but in a very short amount of time has displayed an aptitude and flair for software engineering. He loves solving interesting problems and excels at being an effective and calm communicator no matter the circumstance.
     avatar: trystan_sykes.jpg
@@ -174,7 +172,7 @@ people:
         url: https://www.linkedin.com/in/trystan-sykes/
 
   - name: Paul Borg
-    sort: 2017-12-9
+    sort: 2017-12-09
     position: Cloud Engineer
     desc: Paul has a wide range of experience in IT across Database, System and Cloud Administration. His mantra is to "Automate All the Things" and strives to keep technology implementations simple, consumable and current. Though he considers himself forever a student of technology, his broad experience in the field makes him a highly skilled and knowledgable advisor.
     avatar: paul_borg.jpg
@@ -240,7 +238,6 @@ people:
     sort: 2018-05-14
     position: DevOps and Automation Engineer
     desc: Kris Ma is a DevOps and Automation Engineer, who has a wealth of experience in working in multi-cultural and multi-languages environments and has over ten years within software development, CI/CD and automation, SAP Technical support.  Additionally, proficient in data analysis and data base administration.
-    avatar: kris_ma.jpg
     socials:
       - icon_class: fa-linkedin
         url: https://linkedin.com/in/kris-ma-64180113/
@@ -249,7 +246,6 @@ people:
     sort: 2018-07-23
     position: Everything DEV Consultant
     desc: Rhyno is passionate about doing things right. Rhyno values every aspect of software development and seeks to continuously polish and improve them so as to deliver high quality software. Versed in many tenchnologies, Rhyno has successfully delivered a wide range of high quality solutions.
-    avatar: rhyno_van_der_sluijs.jpg
     socials:
       - icon_class: fa-linkedin
         url: https://www.linkedin.com/in/rhyno-van-der-sluijs
@@ -258,7 +254,6 @@ people:
     sort: 2018-07-30
     position: DevOps Consultant
     desc: Joe is an experienced software engineer comfortable working across an array of technologies to create solutions. Readily applying a wealth of experience and skills (business, technical and software) to new situations, he adapts quickly to difficult and challenging tasks.
-    avatar: joe_austincrowe.jpg
     socials:
      - icon_class: fa-linkedin
        url: https://www.linkedin.com/in/joseph-austin-crowe-474159ba/
@@ -267,7 +262,6 @@ people:
     sort: 2018-07-30
     position: Solutions Consultant / Architect
     desc: Anish has worked in software industry in various roles as a programmer, analyst, agile coach, SCRUM master, tech lead, architect and UX/UI designer. He has worked for start-ups as well as large global conglomerates giving him a unique insight into what drives organisations and how they scale to achieve their goals. During the last few years he has invested significant time into automating infrastructure provisioning and deployment on the AWS cloud to remove repetitive manual tasks from the software delivery lifecycle.
-    avatar: anish_mohile.jpg
     socials:
      - icon_class: fa-linkedin
        url: https://www.linkedin.com/in/anishmohile

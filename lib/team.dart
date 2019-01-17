@@ -14,17 +14,27 @@ class TeamMember {
   final String image;
   final DateTime joined;
 
-  TeamMember({this.name, this.image, this.joined});
+  TeamMember({
+    @required this.name,
+    this.image,
+    @required this.joined,
+  });
 
   factory TeamMember.fromJson(YamlMap json) {
-    var image;
+    String image;
     if (json["avatar"] != null) {
       image = "assets/" + json['avatar'];
     }
 
-    var joined;
-    if (json["joined"] != null) {
-      joined = DateTime.parse(json['joined']);
+    DateTime joined = DateTime.now();
+    if (json["sort"] != null) {
+      print(json['sort']);
+      try {
+        joined = DateTime.parse(json['sort'] + " 13:27:00");
+      } catch (e) {
+        print(e);
+        joined = DateTime.now();
+      }
     }
 
     return TeamMember(name: json['name'], image: image, joined: joined);
@@ -110,9 +120,14 @@ class TeamRoute extends StatelessWidget {
 
     var teamYaml = loadYaml(data);
 
-    return teamYaml["people"].map((yaml) {
+    var team = teamYaml["people"].map((yaml) {
       return TeamMember.fromJson(yaml);
     }).toList();
+
+    // How do we sort the list?
+//    team.sort((a, b) => a.joined.compareTo(b.joined));
+
+    return team;
   }
 
   Widget _buildPage(List teamMembers) {
