@@ -1,0 +1,305 @@
+people:
+  - name: Hannah Browne
+    sort: 2015-05-19
+    joined: 20150519
+    position: General Manager
+    desc:
+      Hannah Browne is a passionate, opinionated deal maker, and the General Manager of Cevo.
+      <br/><br/>A non-technical technologist who is strongly focused on the people component
+      of teams and organisations, because frankly, the technology challenges are almost
+      always easier to solve.
+    avatar: hannah_browne.jpg
+    socials:
+      - icon_class: fa-linkedin
+        url: https://au.linkedin.com/in/hannahbrowne
+      - icon_class: fa-twitter
+        url: https://www.twitter.com/hannahbrowne
+
+  - name: Steve Mactaggart
+    sort: 2016-07-07
+    joined: 20160707
+    position: Application Delivery Evangineer
+    desc:
+      Steve loves helping businesses deliver the best solution for their customers in a way that fits both their timelines and their customer needs.
+      <br/><br/>
+      A passionate technologist, he takes great pleasure in keeping abreast of current trends in technology always looking for opportunities to improve current practice with some innovative thinking.
+      # Using Lean and Agile principals, Steve is constantly working with teams to help them realise the goal of delivering value in discrete units, measuring the results and then learning and adapting in rapid succession.
+    avatar: steve_mactaggart.jpg
+    socials:
+      - icon_class: fa-linkedin
+        url: https://www.linkedin.com/in/steve-mactaggart
+      - icon_class: fa-twitter
+        url: https://www.twitter.com/stevemac
+
+  - name: Robert Rocco
+    sort: 2015-11-11
+    position: Infrastructure Automation and Reliability Engineer
+    desc:
+      Robert Rocco is highly motivated and goal driven member of the team at Cevo.  He is continuously seeking knowledge and thrives on challenges.  Finding the best solution for a problem is one of his main focuses, believing you should always be looking to improve.
+    avatar: robert_rocco.jpg
+    socials:
+      - icon_class: fa-linkedin
+        url: https://au.linkedin.com/in/robert-rocco
+  #     - icon_class: fa-facebook
+  #       url: http://facebook.com
+
+  - name: Trent Hornibrook
+    sort: 2016-05-31
+    position: Infrastructure Coder
+    desc:
+      Trent Hornibrook is a passionate engineer that wants to reduce the cycle from ‘idea’ to ‘cash’. Having a history of Infrastructure Operations, MySQL DBA and Agile Delivery, Trent loves simplifying complex problems and identifying ways to deliver value sooner.
+    avatar: trent_hornibrook.jpg
+    socials:
+      - icon_class: fa-linkedin
+        url: https://au.linkedin.com/in/trenthornibrook
+      - icon_class: fa-twitter
+        url: https://www.twitter.com/mysqldbahelp
+
+  - name: Owen Chung
+    sort: 2016-06-14
+    position: Automation Engineer
+    desc:
+      Owen Chung is a passionate technologist in the game since the turn of the century. He believes tech is an expression of culture. Quality tech reflects a quality culture. His mission is to help tech builders, makers and creators be their best wielding his devops superpowers to drive this cultural change.
+    avatar: owen_chung.jpg
+    socials:
+      - icon_class: fa-linkedin
+        url: https://au.linkedin.com/in/owen-chung-27b2bb11
+
+  - name: Colin Panisset
+    sort: 2016-07-07
+    position: Director, Transformation and Delivery
+    desc:
+      Colin brings his history of operational excellence together with a desire to improve delivery practices to drive business value through improving culture, empathy, automation and technical excellence. He has a knack for understanding and explaining complex systems, and has presented at events like AWS Summits, Devops Days, and many meetups.
+    avatar: colin_panisset.jpg
+    socials:
+      - icon_class: fa-linkedin
+        url: https://www.linkedin.com/in/colinpanisset
+      - icon_class: fa-twitter
+        url: https://www.twitter.com/nonspecialist
+
+  - name: Melissa Ngau
+    sort: 2016-09-29
+    position: Customer Solutions & Delivery Consultant
+    desc:
+      Melissa began her career in testing and quickly discovered the value of building quality in from inception.
+      She has worked in a variety of roles, including Iteration Manager (IM), Quality Analyst, Product Owner and Release Lead.
+      Melissa champions cross-competency collaboration to achieve successful delivery of real value for the customer, and has a passion for coaching and mentoring teams.
+    avatar: melissa_ngau.jpg
+    socials:
+      - icon_class: fa-linkedin
+        url: https://au.linkedin.com/in/melissangau
+      - icon_class: fa-twitter
+        url: https://twitter.com/MsNgau
+
+  - name: Simon Bond
+    sort: 2016-10-11
+    position: Business Designer
+    desc: Simon can be found playing Product Owner, Business Analysis, IM/PM or Agile Coaching roles. He is on a perpetual journey to drag IT closer to "the business" and EVERYONE closer to their customers. Simon is an efficiency addict who loves helping teams shift the dial from a focus on outputs to a focus on measurable business outcomes.
+    avatar: simon_bond.jpg
+    socials:
+      - icon_class: fa-linkedin
+        url: https://au.linkedin.com/in/sjbond
+    #   - icon_class: fa-twitter
+    #     url: https://twitter.com/
+    #   - icon_class: fa-facebook
+    #     url: http://facebook.com
+
+  - name: Henrik Axelsson
+    sort: 2016-11-04
+    position: Business Solutions Consultant
+    desc: Henrik has worked across a large variety of technology roles before landing at Business Analysis. With a solid background in software development, Henrik has acquired a rich understanding for both the technical and operational aspects of project delivery. This experience has given him a keen eye for striking the delicate balance between technical and operational trade offs.
+    avatar: henrik_axelsson.jpg
+    socials:
+      - icon_class: fa-linkedin
+        url: https://au.linkedin.com/in/henrik-axelsson-7083b23
+    #   - icon_class: fa-twitter
+    #     url: https://twitter.com/
+    #   - icon_class: fa-facebook
+    #     url: http://facebook.com
+
+  - name: Ebony Worth
+    sort: 2017-03-06
+    position: Talent/HR
+    desc: Ebony is a self-starter, results-driven talent acquisition specialist, with strong communication and collaboration skills. She is a commercial, customer-focused individual that takes a progressive approach to talent attraction, which has seen her build and develop strategic business relationships within a range of matrix environments.
+    avatar: ebony_worth.jpg
+    socials:
+      - icon_class: fa-linkedin
+        url: https://www.linkedin.com/in/ebonyw/
+
+  - name: Rob Lugton
+    sort: 2017-03-17
+    position: Quality Architect
+    desc: Rob is a QA with a strong technical background. In his career he has done everything from Business Analyst to data analytics to delivery engineering alongside his QA role, and is comfortable talking to a variety of different stakeholders. He is interested in providing solutions and processes that deliver measurable, maintainable benefit to clients.
+    avatar: rob_lugton.jpg
+    socials:
+      - icon_class: fa-linkedin
+        url: https://www.linkedin.com/in/rob-lugton-a2498719
+      - icon_class: fa-twitter
+        url: https://twitter.com/spirited_tester
+
+  - name: Jason Keane
+    sort: 2017-05-08
+    position: Automation Engineer
+    desc: Jason is an experienced agile technologist, with a passion to continually learn and further develop his skill set. He understands the need to constantly adapt to new environments and is experienced at working with broad stakeholder groups to produce the best outcomes.
+    avatar: jason_keane.jpg
+    socials:
+      - icon_class: fa-linkedin
+        url: https://www.linkedin.com/in/jason-keane-03742512/
+
+  - name: Bhushan Manekar
+    sort: 2017-08-04
+    position: Infrastructure Automation Consultant
+    desc: Bhushan has great passion for infrastructure automation, and continuous application delivery. He is also experienced in migrating applications & infrastructure to AWS. His ‘can-do’ attitude & inclination towards adapting new technologies is a great asset to companies looking for next generation IT infrastructure solutions.
+    avatar: bhushan_manekar.jpg
+    socials:
+      - icon_class: fa-linkedin
+        url: https://www.linkedin.com/in/bhushanmanekar
+
+  - name: Sian Hughes
+    sort: 2017-11-13
+    position: Marketing Executive
+    desc: Sian Hughes is an experienced marketing specialist, bringing a broad range of strategic and tactical skills from across the health and technology sectors both in Australia and the UK. Comfortable as the non-techie in tech environments, she has a hands-on approach to building a brand, delivering MarComms initiatives and communicating with a range of audiences across channels.
+    avatar: sian_hughes.jpg
+    socials:
+      - icon_class: fa-linkedin
+        url: https://www.linkedin.com/in/sianehughes
+
+  - name: Trystan Sykes
+    sort: 2017-12-8
+    position: DevOps Consultant
+    desc: Trystan has an extensive background in creating workable operational cultures, customer service and stakeholder engagement. He has only recently begun his journey as a developer but in a very short amount of time has displayed an aptitude and flair for software engineering. He loves solving interesting problems and excels at being an effective and calm communicator no matter the circumstance.
+    avatar: trystan_sykes.jpg
+    socials:
+      - icon_class: fa-linkedin
+        url: https://www.linkedin.com/in/trystan-sykes/
+
+  - name: Paul Borg
+    sort: 2017-12-9
+    position: Cloud Engineer
+    desc: Paul has a wide range of experience in IT across Database, System and Cloud Administration. His mantra is to "Automate All the Things" and strives to keep technology implementations simple, consumable and current. Though he considers himself forever a student of technology, his broad experience in the field makes him a highly skilled and knowledgable advisor.
+    avatar: paul_borg.jpg
+    socials:
+      - icon_class: fa-linkedin
+        url: https://www.linkedin.com/in/paulieborg/
+
+  - name: Guillaume Genevrier
+    sort: 2018-01-22
+    position: Software Engineer
+    desc: Guillaume has had exposure to both systems engineering and software development. He has led different teams where his communication skills allowed him to gradually implement agile methodologies that focus on rapid delivery and reliability. He joined Cevo to extend his DevOps skillset and to enhance his toolbox of agile practices.
+    avatar: guillaume_genevrier.jpg
+    socials:
+      - icon_class: fa-linkedin
+        url: https://www.linkedin.com/in/guillaumegenevrier/
+
+  - name: James Columbine
+    sort: 2018-03-23
+    position: Enterprise Account Sales
+    desc: James’ background in Business Development, Sales, Practice Management and Delivery, enables him to deliver pragmatic win:win outcomes. He combines strong relationship management and influencing skills with extensive experience and knowledge of IT consultancies and their business models. James enjoys providing market insight and business intelligence to develop customers’ competitive advantage.
+    avatar: james_columbine.jpg
+    socials:
+      - icon_class: fa-linkedin
+        url: https://www.linkedin.com/in/james-columbine-a20a582/
+
+  - name: Jeff Inman
+    sort: 2018-03-23
+    position: Business Transformation & Design Consultant
+    desc: Jeff is an “outside-the-box” thinker and a people person who enjoys helping organisations connect with their customers. Bringing a wealth of experience in Business Transformation, he can be regularly found championing a close alignment of ‘People’ and ‘technology’ aspects of an organisation to delivery robust innovative solutions with minimal change resilience.
+    avatar: jeff_inman.jpg
+    socials:
+      - icon_class: fa-linkedin
+        url: https://www.linkedin.com/in/jeffjinman/
+
+  - name: Charaka Wijesuriya
+    sort: 2018-04-23
+    position: Devops Consultant
+    desc: Charaka is a passionate technologist, who strongly believes in kaizen. He is experienced in optimising release processes with infrastructure and test automation, which helps companies to release faster to market.
+    avatar: charaka_wijesuriya.png
+    socials:
+      - icon_class: fa-linkedin
+        url: https://www.linkedin.com/in/wcharaka/
+
+  - name: Raihaan Raman
+    sort: 2018-04-30
+    position: Devops Consultant
+    desc: Rai is a developer who has worked on a multitude of technical and non-technical assignments where he has always tried to automate anything that was within his reach. Rai firmly believes that the concept of having an idea in the morning to shipping it to production in the afternoon is achievable. He also loves technologies that support this concept.
+    avatar: raihaan_raman.jpg
+    socials:
+      - icon_class: fa-linkedin
+        url: https://au.linkedin.com/in/raihaan/
+
+  - name: Kirsty McDonald
+    sort: 2018-05-14
+    position: Business Solutions Consultant
+    desc: Kirsty is a technology consultant who has learned that the best outcomes are delivered when technology and business are speaking the same language. Kirsty’s consulting experience covers government, telecommunications, logistics, retail and mining industries, performing a wide range of projects including technology sourcing and vendor management, technology architecture, business process modelling, change management and IT strategy.
+    avatar: kirsty_mcdonald.jpg
+    socials:
+      - icon_class: fa-linkedin
+        url: https://www.linkedin.com/in/kirstymcdonald/
+
+  - name: Kris Ma
+    sort: 2018-05-14
+    position: DevOps and Automation Engineer
+    desc: Kris Ma is a DevOps and Automation Engineer, who has a wealth of experience in working in multi-cultural and multi-languages environments and has over ten years within software development, CI/CD and automation, SAP Technical support.  Additionally, proficient in data analysis and data base administration.
+    avatar: kris_ma.jpg
+    socials:
+      - icon_class: fa-linkedin
+        url: https://linkedin.com/in/kris-ma-64180113/
+
+  - name: Rhyno van der Sluijs
+    sort: 2018-07-23
+    position: Everything DEV Consultant
+    desc: Rhyno is passionate about doing things right. Rhyno values every aspect of software development and seeks to continuously polish and improve them so as to deliver high quality software. Versed in many tenchnologies, Rhyno has successfully delivered a wide range of high quality solutions.
+    avatar: rhyno_van_der_sluijs.jpg
+    socials:
+      - icon_class: fa-linkedin
+        url: https://www.linkedin.com/in/rhyno-van-der-sluijs
+
+  - name: Joe Austin-Crowe
+    sort: 2018-07-30
+    position: DevOps Consultant
+    desc: Joe is an experienced software engineer comfortable working across an array of technologies to create solutions. Readily applying a wealth of experience and skills (business, technical and software) to new situations, he adapts quickly to difficult and challenging tasks.
+    avatar: joe_austincrowe.jpg
+    socials:
+     - icon_class: fa-linkedin
+       url: https://www.linkedin.com/in/joseph-austin-crowe-474159ba/
+
+  - name: Anish Mohile
+    sort: 2018-07-30
+    position: Solutions Consultant / Architect
+    desc: Anish has worked in software industry in various roles as a programmer, analyst, agile coach, SCRUM master, tech lead, architect and UX/UI designer. He has worked for start-ups as well as large global conglomerates giving him a unique insight into what drives organisations and how they scale to achieve their goals. During the last few years he has invested significant time into automating infrastructure provisioning and deployment on the AWS cloud to remove repetitive manual tasks from the software delivery lifecycle.
+    avatar: anish_mohile.jpg
+    socials:
+     - icon_class: fa-linkedin
+       url: https://www.linkedin.com/in/anishmohile
+
+  - name: Bharath Kumar
+    sort: 2018-08-13
+    position: DevOps Engineer
+    desc: Bharath is an enthusiastic and high-achieving IT professional with an education in computer systems engineering. He has an exceptional technical and analytical skills with over 11 years of experience in Server Infrastructure management. Presently working on Cloud Solutions along with DevOps tool-sets. You will find him to be a positive, motivated and hard-working person who is keen to take up projects that utilizes his skill set and challenge his abilities and grab opportunity to upskill himself. He has an excellent communication skills that allow me to work effectively and positively within a team environment.
+    socials:
+     - icon_class: fa-linkedin
+       url: https://www.linkedin.com/in/bharath-kumar-a9261132/
+
+  - name: Francisco Collet
+    sort: 2018-09-01
+    position: TBC
+
+  - name: Abhishek Anantharaman
+    sort: 2018-09-01
+    position: TBC
+
+  - name: Singaram Ramasamy
+    sort: 2018-09-01
+    position: TBC
+
+  - name: Paul Devine
+    sort: 2018-09-01
+    position: TBC
+
+  - name: Anthony Freestone
+    sort: 2018-09-01
+    position: TBC
+
+  - name: Ravi Jadhav
+    sort: 2018-09-01
+    position: TBC

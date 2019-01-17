@@ -21,6 +21,8 @@ dependencies:
   cupertino_icons: ^0.1.2
   font_awesome_flutter: 8.2.0
   intl:
+  yaml:
+  google_maps_flutter:
 
 dev_dependencies:
   flutter_test:
@@ -41,10 +43,34 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
     - assets/Cevo-PNG-orange.png
+    - assets/team.yaml
     - assets/owen_chung.jpg
     - assets/paul_borg.jpg
     - assets/steve_mactaggart.jpg
     - assets/trent_hornibrook.jpg
+    - assets/geoff_rohrsheim.jpg
+    - assets/guillaume_genevrier.jpg
+    - assets/hannah_browne.jpg
+    - assets/henrik_axelsson.jpg
+    - assets/james_columbine.jpg
+    - assets/jamie_potter.jpg
+    - assets/jason_keane.jpg
+    - assets/jeff_inman.jpg
+    - assets/ebony_worth.jpg
+    - assets/kirsty_mcdonald.jpg
+    - assets/melissa_ngau.jpg
+    - assets/rob_lugton.jpg
+    - assets/colin_panisset.jpg
+    - assets/raihaan_raman.jpg
+    - assets/bhushan_manekar.jpg
+    - assets/simon_bond.jpg
+    - assets/charaka_wijesuriya.png
+    - assets/robert_rocco.jpg
+    - assets/sian_hughes.jpg
+    - assets/DEFAULT_PERSON.png
+    - assets/DEFAULT_PERSON.jpg
+    - assets/trystan_sykes.jpg
+    - assets/team_cevo.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.io/assets-and-images/#resolution-aware.
